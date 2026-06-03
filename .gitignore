@@ -1,0 +1,9 @@
+# Generated appendix tables (produced by running the scripts) -- keep code only
+*.csv
+*.xlsx
+
+# Python noise
+__pycache__/
+*.pyc
+.venv/
+venv/
