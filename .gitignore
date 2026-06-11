@@ -1,6 +1,7 @@
-# Generated appendix tables (produced by running the scripts) -- keep code only
+# Generated appendix tables and figures (produced by running the scripts) -- keep code only
 *.csv
 *.xlsx
+*.png
 
 # Python noise
 __pycache__/
